@@ -1,12 +1,10 @@
 # Hi there! :raised_hand_with_fingers_splayed:
 
-Welcome to my Github profile. I'm Diana from Saint-Petersburg, Russia. In 2021 decided to switch career from finance :dollar:	 to programming :computer:	.	
+Welcome to my Github profile.<br/>
+In 2021 decided to switch career from finance :dollar:	 to programming :computer:	.	<br/>
+Currently studying at School42.
 
-
-Currently studying at School42 (Moscow).
-
-
-[![Coverand's 42 stats](https://badge42.herokuapp.com/api/stats/coverand?privacyEmail=true)](https://github.com/DianaS96)
+Paz mundial <img src="https://images.unsplash.com/photo-1622393168445-ed318ea0554f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" width="40" height="20" alt="Flag of Ukraine">	<img src="https://www.gndiario.com/sites/default/files/noticias/paz-mundial.jpg" width="30" height="20" alt="Globe with hands">	
 ## Programming Languages And Technologies That I Learn
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/>
