@@ -1,8 +1,7 @@
 # Hi there! :raised_hand_with_fingers_splayed:
 
 Welcome to my Github profile.<br/>
-In 2021 decided to switch career from finance :dollar:	 to programming :computer:	.	<br/>
-Currently studying at School42.
+Currently I am studying at School42.
 
 ## Programming Languages And Technologies That I Learn
 
